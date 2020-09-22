@@ -1,0 +1,5 @@
+mdiFrmMain = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmMenu = 66, 66, 385, 542, Z, 22, 22, 539, 498, C
+clsMenu = 0, 0, 0, 0, C
+modMenu = 0, 0, 0, 0, C
+clsFuntions = 0, 0, 0, 0, C
